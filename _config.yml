@@ -1,0 +1,10 @@
+baseurl: /montreal
+permalink: pretty
+markdown: kramdown
+paginate: 5
+repo: montreal
+github_org: maptime
+maptime:
+  chapter: MaptimeMTL
+  twitter: MaptimeMTL
+  #disqus: YOUR DISQUS USERNAME
